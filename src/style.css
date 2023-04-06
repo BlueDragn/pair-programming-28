@@ -1,0 +1,161 @@
+@import url("../starter-code/assets/fonts/SpaceGrotesk-VariableFont_wght.ttf");
+
+/* VARIABLES */
+:root {
+  /* Colors */
+  --clr-black: #151515;
+  --clr-green: #4ee1a0;
+  --clr-dark-grey: #242424;
+  --clr-grey: #d9d9d9;
+  --clr-white: #ffffff;
+  --clr-invalid: #ff6f5b;
+
+  /* explain this why */
+  --max-width-mobile: 343px;
+  --max-width-tablet: 708px;
+  --max-width-desktop: 1110px;
+}
+
+/* GLOBAL STYLES */
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "SpaceGrotesk";
+  src: url("../starter-code/assets/fonts/SpaceGrotesk-VariableFont_wght.ttf");
+}
+
+body {
+  font-family: SpaceGrotesk;
+  background-color: var(--clr-black);
+  color: var(--clr-white);
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Heading XL */
+h1 {
+  font-size: 88px;
+  line-height: 88px;
+  letter-spacing: -2.5px;
+}
+
+/* Heading L */
+h1 {
+  font-size: 48px;
+  line-height: 56px;
+  letter-spacing: -1.5px;
+}
+
+/* Heading M */
+h2 {
+  font-size: 24px;
+  line-height: 32px;
+}
+
+/* body copy */
+p {
+  font-size: 18px;
+  line-height: 28px;
+}
+
+/* GLOBAL CLASSES */
+
+.btn {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: var(--clr-white);
+  background-color: transparent;
+  border-style: none;
+  padding-bottom: 10px;
+  border-bottom: 2.5px solid var(--clr-green);
+}
+
+.btn:hover {
+  color: var(--clr-green);
+}
+
+input[type="text"] {
+  border: none;
+  outline: none;
+  color: var(--clr-white);
+  background-color: transparent;
+  padding-bottom: 16px;
+  border-bottom: 2.5px solid var(--clr-grey);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: -0.22px;
+}
+
+input[type="text"]:focus {
+  border-bottom: 2.5px solid var(--clr-green);
+}
+
+input[type="text"]:invalid {
+  border-bottom: 2.5px solid var(--clr-invalid);
+}
+
+/* Navbar */
+
+.nav {
+  height: 72px;
+  padding: 1rem;
+}
+
+.nav-container {
+  width: 100%;
+  max-width: 174px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-logo h2 {
+  text-align: center;
+}
+
+.nav-icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* explain this why*/
+  padding-left: 0;
+}
+
+/* explain this why */
+svg:hover path {
+  fill: var(--clr-green);
+}
+
+/* explain this why */
+@media screen and (min-width: 768px) {
+  .nav-container {
+    max-width: var(--max-width-tablet);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .nav-icons {
+    /* explain how did you get 32px and why column gap? */
+    column-gap: 32px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .nav-container {
+    max-width: var(--max-width-desktop);
+  }
+}
