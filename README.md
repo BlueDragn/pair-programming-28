@@ -1,9 +1,9 @@
-# Pair-Programming-28 :  Frontend Mentor - Single-page developer portfolio
+# Chingu Pair-Programming-28 : Single-page developer portfolio
 
 ![Design preview for the Single-page developer portfolio coding challenge](./starter-code/assets/images/preview.jpg)
 ## Welcome! 👋
 
- For this Pair Programming we chose a Front End challenge from [Frontend Mentor](https://www.frontendmentor.io),
+ For this Chingu Pair Programming we chose a Front End challenge from [Frontend Mentor](https://www.frontendmentor.io),
  [A single page developer portfolio website](https://www.frontendmentor.io/challenges/singlepage-developer-portfolio-bBVj2ZPi-x).
  **we will be using HTML, CSS and Javascript to complete this challenge.**
 
