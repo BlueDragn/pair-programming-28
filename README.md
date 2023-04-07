@@ -54,4 +54,19 @@ When the user clicks the "Contact me" call-to-action in the hero or projects sec
 - CSS Grid
 - Mobile-first workflow
  For styles
+ ## Time line
+  ### Day 01 : Apr 05
+  - Get to know each other through chingu discord channel.
+- [Set a time to meet on when2meet](https://www.when2meet.com/?19527638-cw1jk)
+- Discussed about many which includes: <br>
+   - pair programing <br>
+   - which platform  for meeting <br>
+   - Our working setup
+
+### Day 02 : Apr 06
+ - Kicked off our first meeting
+ - Begin working on our project
+ - Anshuman as a Navigator and Emerson Bualat as a Pilot.
+
+
 
