@@ -54,6 +54,12 @@ When the user clicks the "Contact me" call-to-action in the hero or projects sec
 - CSS Grid
 - Mobile-first workflow
  For styles
+ ## Authors
+  **Emerson Bualat**
+ - Profile Link : https://github.com/emerson-bualat
+  
+  **Anshuman Singh**
+ - Profile Link : https://github.com/BlueDragn
  ## Time line : work log 
   ### Day 01 : Apr 05
   - Get to know each other through chingu discord channel.
