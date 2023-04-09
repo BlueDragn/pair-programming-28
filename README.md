@@ -71,5 +71,9 @@ When the user clicks the "Contact me" call-to-action in the hero or projects sec
  - Anshuman as a pilot and Emerson Bulat as a Navigator
  - begin working on tech-stack-section and fininshed tablet and mobile design.
  - had healthy discussion about project and other tech. stuff.
+### Day 04 : Apr 09
+ - begin working on project section.
+ - Anshuman as a pilot and Emerson Bulet as Navigator.
+ - Also had discussion about css Flex and responsive design.
  
 
