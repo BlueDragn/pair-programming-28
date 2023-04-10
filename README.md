@@ -1,7 +1,7 @@
 # Chingu Pair-Programming-28 :  Frontend Mentor - Single-page developer portfolio
 
 
-![Design preview for the Single-page developer portfolio coding challenge](./starter-code/assets/images/preview.jpg)
+![Design preview for the Single-page developer portfolio coding challenge](./assets/images/preview.jpg)
 ## Welcome! 👋
 
  For this Chingu Pair Programming we chose a Front End challenge from [Frontend Mentor](https://www.frontendmentor.io),
@@ -42,7 +42,7 @@ When the user clicks the "Contact me" call-to-action in the hero or projects sec
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://bluedragn.github.io/pair-programming-28/]()
 
 ## Our process
 
