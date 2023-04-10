@@ -457,9 +457,7 @@ br {
     width: 100%;
   }
 
-  .project {
-    border: solid 1px green;
-  }
+
 }
 @media screen and (min-width: 992px) {
   .project-container {
