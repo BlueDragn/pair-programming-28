@@ -41,8 +41,8 @@ Users should be able to:
 When the user clicks the "Contact me" call-to-action in the hero or projects section, the browser should scroll down to the contact form.
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://bluedragn.github.io/pair-programming-28/]()
+- Solution URL:  https://github.com/BlueDragn/pair-programming-28
+- Live Site URL: https://bluedragn.github.io/pair-programming-28/
 
 ## Our process
 
