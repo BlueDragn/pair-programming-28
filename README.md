@@ -54,6 +54,7 @@ When the user clicks the "Contact me" call-to-action in the hero or projects sec
 - CSS Grid
 - Mobile-first workflow
  For styles
+- Github pages for project deployment
  ## Authors
   **Emerson Bualat**
  - Profile Link : https://github.com/emerson-bualat
