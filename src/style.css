@@ -313,23 +313,17 @@ br {
 
 /* styling tech. stack section */
 
-.tech-stack{
-text-align: center;
-
-
+.tech-stack {
+  text-align: center;
 }
-.tech-stack-container{
+.tech-stack-container {
   width: 100%;
   max-width: var(--max-width-mobile);
   margin: 0 auto;
   border-top: 1px solid var(--clr-white);
   border-bottom: 1px solid var(--clr-white);
-
-
 }
-.stack-item{
-/* margin-bottom: -15px; */
-}
+
 .stack-item > h2 {
   margin-bottom: 1px;
   margin-top: 24px;
@@ -338,128 +332,108 @@ text-align: center;
   margin-top: 0;
 }
 @media screen and (min-width: 768px) {
-  .tech-stack-container{
-  max-width: var(--max-width-tablet);
-   display: flex;
-   justify-content: space-between;
-   flex-wrap: wrap;
-   border-bottom:none;
-
+  .tech-stack-container {
+    max-width: var(--max-width-tablet);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-bottom: none;
   }
-  .tech-stack{
-    text-align:left;
-    }
-
-  .stack-item{
-    flex: 0 0 calc(50%)
+  .tech-stack {
+    text-align: left;
   }
 
+  .stack-item {
+    flex: 0 0 calc(50%);
+  }
 }
 
 @media screen and (min-width: 992px) {
-  .tech-stack-container{
+  .tech-stack-container {
     max-width: var(--max-width-desktop);
     padding-top: 72px;
   }
-  .stack-item{
-    flex: 0 0 calc(33.33%)
+  .stack-item {
+    flex: 0 0 calc(33.33%);
   }
-
 }
 
 /* Project section */
-/* .project{
-
-} */
-.project-container{
+.project-container {
   width: 100%;
   max-width: var(--max-width-mobile);
   margin: 0 auto;
-
 }
-.project-header{
-   display: flex;
-   justify-content: space-between;
-   align-items: center;
-
-
-
-
+.project-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-
-.project-header > h3{
-font-weight: 700;
-font-size: 40px;
-line-height: 40px;
-letter-spacing: -1.13636px;
-
-
-
-
+.project-header > h3 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 40px;
+  letter-spacing: -1.13636px;
 }
-.project-items{
 
-}
-.project-item{
-
+.project-item {
   margin-top: 40px;
-
 }
-.project-img-1{
-background-image: url("../starter-code/assets/images/thumbnail-project-1-small.webp");
-width: 343px;
-height: 253px;
-background-size: contain;
+.project-img-1 {
+  background-image: url("../starter-code/assets/images/thumbnail-project-1-small.webp");
+  width: 343px;
+  height: 253px;
+  background-size: contain;
 }
-.project-img-2{
+.project-img-2 {
   background-image: url("../starter-code/assets/images/thumbnail-project-2-small.webp");
   width: 343px;
   height: 253px;
   background-size: contain;
-  }
-  .project-img-3{
+}
+.project-img-3 {
   background-image: url("../starter-code/assets/images/thumbnail-project-3-small.webp");
   width: 343px;
   height: 253px;
   background-size: contain;
-    }
-  .project-img-4{
-   background-image: url("../starter-code/assets/images/thumbnail-project-4-small.webp");
-   width: 343px;
-      height: 253px;
-      background-size: contain;
-      }
-  .project-img-5{
-        background-image: url("../starter-code/assets/images/thumbnail-project-5-small.webp");
-        width: 343px;
-        height: 253px;
-        background-size: contain;
-        }
-  .project-img-6{
-          background-image: url("../starter-code/assets/images/thumbnail-project-6-small.webp");
-          width: 343px;
-          height: 253px;
-          background-size: contain;
-          }
+}
+.project-img-4 {
+  background-image: url("../starter-code/assets/images/thumbnail-project-4-small.webp");
+  width: 343px;
+  height: 253px;
+  background-size: contain;
+}
+.project-img-5 {
+  background-image: url("../starter-code/assets/images/thumbnail-project-5-small.webp");
+  width: 343px;
+  height: 253px;
+  background-size: contain;
+}
+.project-img-6 {
+  background-image: url("../starter-code/assets/images/thumbnail-project-6-small.webp");
+  width: 343px;
+  height: 253px;
+  background-size: contain;
+}
 
 .project-info h3 {
-text-transform: uppercase;
-margin-bottom: 3.5px;
-
+  text-transform: uppercase;
+  margin-bottom: 3.5px;
 }
-.project-info-stack{
+.project-info-stack {
   display: flex;
   gap: 18px;
   font-weight: 500;
   font-size: 18px;
   line-height: 28px;
-
 }
-.project-info-stack > p{
+.project-info-stack > p {
   margin-top: 3.5px;
 }
-.project-info-action button{
+.project-info-action button {
   margin-right: 30px;
+}
 
+@media screen and (min-width: 768px) {
 }
