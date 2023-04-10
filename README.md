@@ -1,7 +1,7 @@
 # Chingu Pair-Programming-28 :  Frontend Mentor - Single-page developer portfolio
 
 
-![Design preview for the Single-page developer portfolio coding challenge](./starter-code/assets/images/preview.jpg)
+![Design preview for the Single-page developer portfolio coding challenge](./assets/images/preview.jpg)
 ## Welcome! 👋
 
  For this Chingu Pair Programming we chose a Front End challenge from [Frontend Mentor](https://www.frontendmentor.io),
@@ -41,8 +41,8 @@ Users should be able to:
 When the user clicks the "Contact me" call-to-action in the hero or projects section, the browser should scroll down to the contact form.
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:  https://github.com/BlueDragn/pair-programming-28
+- Live Site URL: https://bluedragn.github.io/pair-programming-28/
 
 ## Our process
 
@@ -54,6 +54,7 @@ When the user clicks the "Contact me" call-to-action in the hero or projects sec
 - CSS Grid
 - Mobile-first workflow
  For styles
+- Github pages for project deployment
  ## Authors
   **Emerson Bualat**
  - Profile Link : https://github.com/emerson-bualat
