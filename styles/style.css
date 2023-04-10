@@ -467,3 +467,14 @@ br {
     flex-grow: 1;
   }
 }
+
+/* Contact Form */
+.contact{
+  text-align: center;
+}
+.contact-form-container{
+  width: 100%;
+  max-width: var(--max-width-mobile);
+  margin: 0 auto;
+
+}
