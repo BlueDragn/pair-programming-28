@@ -42,7 +42,7 @@ When the user clicks the "Contact me" call-to-action in the hero or projects sec
 ### Links
 
 - Solution URL:  https://github.com/BlueDragn/pair-programming-28
-- Live Site URL: https://bluedragn.github.io/pair-programming-28/
+- Live Site URL: https://lovely-kataifi-27f434.netlify.app/
 
 ## Our process
 
