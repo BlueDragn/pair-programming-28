@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="./styles/style.css" />
   </head>
   <body>
+    <div class="pattern-rings-2"></div>
     <!-- nav -->
     <nav class="nav">
       <div class="nav-container">
@@ -129,16 +130,29 @@
           <div class="project-item">
             <article class="project-img-1"></article>
 
-            <div class="project-info">
-              <h3>Design portfolio</h3>
-
-              <div class="project-info-stack">
-                <p>HTML</p>
-                <p>CSS</p>
+            <div class="project-image-container">
+              <img
+                src="/assets/images/thumbnail-project-1-large.webp"
+                alt="project-img"
+              />
+              <div class="project-button-container">
+                <button class="btn project-button-one">View project</button>
+                <button class="btn project-button-two">View Code</button>
               </div>
-              <div class="project-info-action">
-                <button class="btn">View project</button>
-                <button class="btn">View Code</button>
+            </div>
+
+            <div class="project-info">
+              <div class="project-info">
+                <h3>Design portfolio</h3>
+
+                <div class="project-info-stack">
+                  <p>HTML</p>
+                  <p>CSS</p>
+                </div>
+                <div class="project-info-action">
+                  <button class="btn">View project</button>
+                  <button class="btn">View Code</button>
+                </div>
               </div>
             </div>
           </div>
@@ -147,22 +161,44 @@
           <div class="project-item">
             <article class="project-img-2"></article>
 
-            <div class="project-info">
-              <h3>E-learning landing page</h3>
-
-              <div class="project-info-stack">
-                <p>HTML</p>
-                <p>CSS</p>
-              </div>
-              <div class="project-info-action">
-                <button class="btn">View project</button>
-                <button class="btn">View Code</button>
+            <div class="project-image-container">
+              <img
+                src="/assets/images/thumbnail-project-2-large.webp"
+                alt="project-img"
+              />
+              <div class="project-button-container">
+                <button class="btn project-button-one">View project</button>
+                <button class="btn project-button-two">View Code</button>
               </div>
             </div>
+
+            <h3>E-learning landing page</h3>
+
+            <div class="project-info-stack">
+              <p>HTML</p>
+              <p>CSS</p>
+            </div>
+            <div class="project-info-action">
+              <button class="btn">View project</button>
+              <button class="btn">View Code</button>
+            </div>
           </div>
+
           <!-- project-item-3-->
           <div class="project-item">
             <article class="project-img-3"></article>
+
+            <div class="project-image-container">
+              <img
+                src="/assets/images/thumbnail-project-3-large.webp"
+                alt="project-img"
+              />
+              <div class="project-button-container">
+                <button class="btn project-button-one">View project</button>
+                <button class="btn project-button-two">View Code</button>
+              </div>
+            </div>
+
             <div class="project-info">
               <h3>Todo web app</h3>
               <div class="project-info-stack">
@@ -180,6 +216,17 @@
           <!-- project-item-4-->
           <div class="project-item">
             <article class="project-img-4"></article>
+
+            <div class="project-image-container">
+              <img
+                src="/assets/images/thumbnail-project-4-large.webp"
+                alt="project-img"
+              />
+              <div class="project-button-container">
+                <button class="btn project-button-one">View project</button>
+                <button class="btn project-button-two">View Code</button>
+              </div>
+            </div>
 
             <div class="project-info">
               <h3>Entertainment web app</h3>
@@ -199,6 +246,17 @@
           <div class="project-item">
             <article class="project-img-5"></article>
 
+            <div class="project-image-container">
+              <img
+                src="/assets/images/thumbnail-project-5-large.webp"
+                alt="project-img"
+              />
+              <div class="project-button-container">
+                <button class="btn project-button-one">View project</button>
+                <button class="btn project-button-two">View Code</button>
+              </div>
+            </div>
+
             <div class="project-info">
               <h3>Memory Game</h3>
 
@@ -216,6 +274,17 @@
           <!-- project-item-6-->
           <div class="project-item">
             <article class="project-img-6"></article>
+
+            <div class="project-image-container">
+              <img
+                src="/assets/images/thumbnail-project-6-large.webp"
+                alt="project-img"
+              />
+              <div class="project-button-container">
+                <button class="btn project-button-one">View project</button>
+                <button class="btn project-button-two">View Code</button>
+              </div>
+            </div>
 
             <div class="project-info">
               <h3>Art gallery showcase</h3>
@@ -237,27 +306,30 @@
     <!----Contact Section-->
     <section class="contact">
       <div class="contact-form-container">
-      <div class="contact-info">
-        <h2>Contact</h2>
-        <p>
-          I would love to hear about your project and how I could help. Please
-          fill in the form, and I’ll get back to you as soon as possible.
-        </p>
+        <div class="contact-info">
+          <h2>Contact</h2>
+          <p>
+            I would love to hear about your project and how I could help. Please
+            fill in the form, and I’ll get back to you as soon as possible.
+          </p>
+        </div>
+        <div class="contact-form">
+          <form class="form">
+            <input type="text" id="name" name="name" placeholder="Name" /><br />
+
+            <input type="email" id="email" name="email" placeholder="Email" />
+
+            <textarea
+              id="w3review"
+              name="w3review"
+              rows="4"
+              cols="50"
+              placeholder="Message"
+            ></textarea>
+            <button type="submit" class="btn submit-btn">Send message</button>
+          </form>
+        </div>
       </div>
-      <div class="contact-form">
-        <form class="form">
-
-          <input type="text" id="name" name="name" value="Name" class="btn" /><br />
-
-          <input type="email" id="email" name="email" value="Email" class="btn" />
-
-          <textarea id="w3review" name="w3review" rows="4" cols="50" class="btn">
-            Message
-            </textarea>
-          <button type="submit" class="btn">Send message</button>
-        </form>
-      </div>
-    </div>
     </section>
 
     <!--  Footer -->
@@ -267,7 +339,7 @@
           <div class="nav-logo">
             <h3>adamkeyes</h3>
           </div>
-  
+
           <ul class="nav-icons">
             <li>
               <a href="#">
@@ -314,7 +386,6 @@
           </ul>
         </div>
       </nav>
-
     </footer>
   </body>
 </html>
