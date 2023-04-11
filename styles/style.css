@@ -14,6 +14,11 @@
 }
 
 /* GLOBAL STYLES */
+
+html {
+  scroll-behavior: smooth;
+}
+
 ::after,
 ::before {
   margin: 0;
