@@ -58,6 +58,10 @@ When the user clicks the "Contact me" call-to-action in the hero or projects sec
  ## Authors
   **Emerson Bualat**
  - Profile Link : https://github.com/emerson-bualat
+### Continous development
+- There is always room for improvment
+- As our skills grow we will try to make it as identical to the desing as possible
+- We will try to give it some personal touch
   
   **Anshuman Singh**
  - Profile Link : https://github.com/BlueDragn
