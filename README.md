@@ -57,14 +57,16 @@ When the user clicks the "Contact me" call-to-action in the hero or projects sec
 - Github pages for project deployment
  ## Authors
   **Emerson Bualat**
- - Profile Link : https://github.com/emerson-bualat
+ - Profile Link : [click here]( https://github.com/emerson-bualat)
+
 ### Continous development
 - There is always room for improvment
 - As our skills grow we will try to make it as identical to the desing as possible
 - We will try to give it some personal touch
   
   **Anshuman Singh**
- - Profile Link : https://github.com/BlueDragn
+ - Profile Link : [click here](https://github.com/BlueDragn)
+
  ## Time line : work log 
   ### Day 01 : Apr 05
   - Get to know each other through chingu discord channel.
@@ -86,5 +88,10 @@ When the user clicks the "Contact me" call-to-action in the hero or projects sec
  - begin working on project section.
  - Anshuman as a pilot and Emerson Bualat as Navigator.
  - Also had discussion about css Flex and responsive design.
+### Day 05 : Apr 10
+ - Work bigin to finish the project
+ - We couldn't able to meet so we devided the work.
+ - we both worked on our own and commited 
+ - Emerson gave the final touch 
  
 
