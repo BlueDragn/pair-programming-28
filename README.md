@@ -58,6 +58,7 @@ When the user clicks the "Contact me" call-to-action in the hero or projects sec
  ## Authors
   **Emerson Bualat**
  - Profile Link : [click here]( https://github.com/emerson-bualat)
+ 
   **Anshuman Singh**
  - Profile Link : [click here](https://github.com/BlueDragn)
 
