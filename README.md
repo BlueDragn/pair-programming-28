@@ -16,7 +16,7 @@
   - [Links](#links)
 - [Our process](#my-process)
   - [Built with](#built-with)
-  - [What We learned](#what-i-learned)
+  - [What We learned](#what-we-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Authors](#author)
